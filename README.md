@@ -1,62 +1,61 @@
-<!-- HEADER -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║              l i s o n l y . d i a                  ║
-║          [ raidshadowmc-sudo on github ]             ║
-╚══════════════════════════════════════════════════════╝
-```
+# 🌌 lisonly.dia.
 
-*системный архитектор. строитель ботов. организатор хаоса.*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2FD8EB&center=true&vCenter=true&width=800&height=100&lines=DISCORD+ECOSYSTEM+ARCHITECT;ASTERION+CORE+DEVELOPER;AI-ASSISTED+ENGINEERING" alt="Typing SVG" />
 
-</div>
+<p align="center">
+  <kbd>Building Modular · Aesthetic · Production-Grade Systems</kbd>
+</p>
 
 ---
 
-## ⬡ ASTERION Ecosystem
+### 🛠 Tech Stack & Environment
 
-Разрабатываю и поддерживаю **ASTERION** — модульный набор ботов для Discord-сообщества.
-
-| Бот | Назначение |
-|-----|------------|
-| `AsterionEconomy` | Экономика: валюта, предметы, лутбоксы, динамическое ценообразование |
-| `AsterionMonitor` | Мониторинг и логирование активности сервера |
-| `AsterionEvents` | Турниры, ивенты, автоматизация мероприятий |
-| `AsterionPartners` | Управление партнёрствами и интеграциями |
-
-> Архитектура: domain decomposition. Разработка — agent-assisted, ревью и контроль — ручные.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,sqlite,html,css,js,discord,oracle,vscode&perline=8" />
+</p>
 
 ---
 
-## ⬡ Стек / Stack
+### 🧠 Development Method: Agent-Assisted Engineering
 
-```
-Python · Discord.py · C# · JavaScript · HTML/CSS
-Oracle Cloud Infrastructure · Linux (Ubuntu)
-```
+*Трёхуровневая верификация — архитектура, исполнение, контроль качества.*
 
----
-
-## ⬡ Чем ещё занимаюсь
-
-- 🏆 **Турниры War Thunder** — организация, визуальные материалы, Double Elimination брекеты *(NB-CUP Season 2 — Noble Blade)*
-- 🌐 **Веб-дизайн** — одностраничные сайты, документация, кастомные UI с нуля
-- ⚙️ **Инфраструктура** — настройка VPS, деплой, Oracle Cloud
+| 1. ARCHITECT | 2. EXECUTOR | 3. AUDITOR |
+| :---: | :---: | :---: |
+| 🎭 **Sonnet 4.6** | ⚡ **Codex / Cursor** | 🛡️ **Sonnet 4.6** |
+| Logic & Concept Design | Implementation & Reasoning | Final Review & QA |
 
 ---
 
-## ⬡ Интересы
+### 📂 ASTERION Ecosystem
 
-```
-Фольклор и мифология сравнительные · Тёмное фэнтези · Аниме
-War Thunder · Discord-сообщества · Агентная разработка
-```
+*Модульный набор ботов для Discord-сообщества. Все компоненты — собственная разработка.*
+
+| Bot | Function | Tech |
+| :--- | :--- | :--- |
+| **[AsterionEconomy](https://asteriondoc.netlify.app/)** | Currency · Items · Dynamic Pricing | `Discord.py` + `SQLite` |
+| **[AsterionEvents](https://asteriondoc.netlify.app/)** | Events · Automation · Game Mechanics | `Discord.py` + `Role Logic` |
+| **[AsterionPartners](https://asteriondoc.netlify.app/)** | Partnership Management · Access Control | `Role-based Logic` |
+| **[AsterionMonitor](https://asteriondoc.netlify.app/)** | Logging · Server Activity Tracking | `Discord.py` |
 
 ---
 
-<div align="center">
+### 📊 GitHub Activity
 
-`// работа в процессе. всегда.`
+<img src="https://github-readme-stats.vercel.app/api?username=raidshadowmc-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2FD8EB&text_color=FFFFFF&icon_color=2FD8EB" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidshadowmc-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2FD8EB&text_color=FFFFFF" width="48%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raidshadowmc-sudo&theme=radical&background=0D1117&fire=2FD8EB&ring=2FD8EB&currStreakLabel=2FD8EB" width="100%" />
+
+---
+
+### 📫 Connect
+
+<a href="https://discord.com/users/lisonly.dia.">
+  <img src="https://img.shields.io/badge/Discord-lisonly.dia.-2FD8EB?style=for-the-badge&logo=discord&logoColor=white&labelColor=1F1F1F" />
+</a>
 
 </div>
