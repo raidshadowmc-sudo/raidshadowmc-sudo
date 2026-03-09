@@ -1,50 +1,92 @@
 <div align="center">
 
-# 🌌 lisonly.dia.
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2FD8EB&center=true&vCenter=true&width=800&height=100&lines=DISCORD+ECOSYSTEM+ARCHITECT;ASTERION+CORE+DEVELOPER;SYSTEM+DESIGNER" alt="Typing SVG" />
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█                                                 █
+█        l i s o n l y . d i a                   █
+█        discord ecosystem architect              █
+█                                                 █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
 
-<p align="center">
-  <kbd>Building Modular · Aesthetic · Production-Grade Systems</kbd>
-</p>
-
----
-
-### 🛠 Tech Stack & Environment
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sqlite,html,css,js,discord,oracle,vscode&perline=8" />
-</p>
-
----
-
-### 📂 ASTERION Ecosystem
-
-*Модульный набор ботов для Discord-сообщества. Все компоненты — собственная разработка.*
-
-| Bot | Function | Tech |
-| :--- | :--- | :--- |
-| **[AsterionEconomy](https://asteriondoc.netlify.app/)** | Currency · Items · Dynamic Pricing | `Discord.py` + `SQLite` |
-| **[AsterionEvents](https://asteriondoc.netlify.app/)** | Events · Automation · Game Mechanics | `Discord.py` + `Role Logic` |
-| **[AsterionPartners](https://asteriondoc.netlify.app/)** | Partnership Management · Access Control | `Role-based Logic` |
-| **[AsterionMonitor](https://asteriondoc.netlify.app/)** | Logging · Server Activity Tracking | `Discord.py` |
-
----
-
-### 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=raidshadowmc-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2FD8EB&text_color=FFFFFF&icon_color=2FD8EB" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidshadowmc-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2FD8EB&text_color=FFFFFF" width="48%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&height=40&lines=_%3E+initializing+ASTERION+ecosystem...;_%3E+all+systems+nominal.;_%3E+standing+by." alt="Typing SVG" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raidshadowmc-sudo&theme=radical&background=0D1117&fire=2FD8EB&ring=2FD8EB&currStreakLabel=2FD8EB" width="100%" />
+</div>
 
 ---
 
-### 📫 Connect
+<div align="center">
+
+### `// STACK`
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,sqlite,html,css,js,discord,oracle,linux&perline=8&theme=dark" />
+</p>
+
+---
+
+<div align="center">
+
+### `// ASTERION — active modules`
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  MODULE            │  FUNCTION                  │  STATUS       │
+├────────────────────┼────────────────────────────┼───────────────┤
+│  AsterionEconomy   │  Currency · Loot · Pricing  │  ● LIVE       │
+│  AsterionEvents    │  Events · Automation        │  ● LIVE       │
+│  AsterionPartners  │  Access · Partnerships      │  ● LIVE       │
+│  AsterionMonitor   │  Logging · Activity         │  ● LIVE       │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+📄 **[asteriondoc.netlify.app](https://asteriondoc.netlify.app/)**
+
+</div>
+
+---
+
+<div align="center">
+
+### `// ACTIVITY`
+
+<img src="https://github-readme-stats.vercel.app/api?username=raidshadowmc-sudo&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C9A84C&text_color=AAAAAA&icon_color=C9A84C&hide_rank=false&theme=dark" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raidshadowmc-sudo&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=C9A84C&text_color=AAAAAA&theme=dark" width="47%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raidshadowmc-sudo&hide_border=true&background=0A0A0A&fire=C9A84C&ring=C9A84C&currStreakLabel=C9A84C&sideLabels=AAAAAA&dates=555555&sideNums=FFFFFF" width="96%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `// REACH`
 
 <a href="https://discord.com/users/lisonly.dia.">
-  <img src="https://img.shields.io/badge/Discord-lisonly.dia.-2FD8EB?style=for-the-badge&logo=discord&logoColor=white&labelColor=1F1F1F" />
+  <img src="https://img.shields.io/badge/Discord-lisonly.dia.-C9A84C?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A0A0A" />
 </a>
+&nbsp;
+<a href="https://asteriondoc.netlify.app/">
+  <img src="https://img.shields.io/badge/Docs-asteriondoc-C9A84C?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0A0A0A" />
+</a>
+
+<br><br>
+
+```
+// end of file
+```
 
 </div>
