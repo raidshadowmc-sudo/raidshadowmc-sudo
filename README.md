@@ -21,6 +21,12 @@
 
 ---
 
+# ▣ SYSTEM OVERVIEW
+
+> ASTERION is a modular discord automation framework focused on **economy**, **dynamic events**, **partner access**, and **activity monitoring**.
+
+---
+
 # ▣ SYSTEM STACK
 
 <div align="center">
@@ -34,23 +40,21 @@
 # ▣ ASTERION ARCHITECTURE
 
 <div align="center">
-
-
+<pre>
 ┌───────────────────────────────────────────────┐
-│ ASTERION CORE │
+│                 ASTERION CORE                 │
 ├───────────────────────────────────────────────┤
-│ Economy System │ Currency · Loot │
-│ Event Engine │ Dynamic server events │
-│ Partner Manager │ Access control │
-│ Activity Monitor │ Logging & telemetry │
+│ Economy System   │ Currency · Loot · Trading  │
+│ Event Engine     │ Dynamic server events      │
+│ Partner Manager  │ Access control             │
+│ Activity Monitor │ Logging & telemetry        │
 ├───────────────────────────────────────────────┤
-│ Runtime: Python │
-│ Storage: SQLite │
-│ Platform: Discord API │
-│ Infrastructure: Oracle Cloud │
+│ Runtime          │ Python                     │
+│ Storage          │ SQLite                     │
+│ Platform         │ Discord API                │
+│ Infrastructure   │ Oracle Cloud               │
 └───────────────────────────────────────────────┘
-
-
+</pre>
 </div>
 
 ---
