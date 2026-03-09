@@ -2,7 +2,7 @@
 
 # 🌌 lisonly.dia.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2FD8EB&center=true&vCenter=true&width=800&height=100&lines=DISCORD+ECOSYSTEM+ARCHITECT;ASTERION+CORE+DEVELOPER;AI-ASSISTED+ENGINEERING" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2FD8EB&center=true&vCenter=true&width=800&height=100&lines=DISCORD+ECOSYSTEM+ARCHITECT;ASTERION+CORE+DEVELOPER;SYSTEM+DESIGNER" alt="Typing SVG" />
 
 <p align="center">
   <kbd>Building Modular · Aesthetic · Production-Grade Systems</kbd>
@@ -15,17 +15,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,sqlite,html,css,js,discord,oracle,vscode&perline=8" />
 </p>
-
----
-
-### 🧠 Development Method: Agent-Assisted Engineering
-
-*Трёхуровневая верификация — архитектура, исполнение, контроль качества.*
-
-| 1. ARCHITECT | 2. EXECUTOR | 3. AUDITOR |
-| :---: | :---: | :---: |
-| 🎭 **Sonnet 4.6** | ⚡ **Codex / Cursor** | 🛡️ **Sonnet 4.6** |
-| Logic & Concept Design | Implementation & Reasoning | Final Review & QA |
 
 ---
 
