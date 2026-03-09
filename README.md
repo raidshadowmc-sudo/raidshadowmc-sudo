@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=110&section=header"/>
 
-# ASTERION
-### discord automation architecture
+# GEORGY | LISONLY.DIA
+### software architect & discord ecosystem dev
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=%3E+booting+ASTERION+core...;%3E+loading+modules...;%3E+system+status:+nominal." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=%3E+hi,+I'm+Georgy+(lisonly.dia);%3E+architect+of+the+Asterion+ecosystem;%3E+building+tools+for+communities;%3E+welcome+to+my+workspace." />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-LIVE-C9A84C?style=for-the-badge&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/ARCHITECT-lisonly.dia-C9A84C?style=for-the-badge&labelColor=0A0A0A"/>
-<img src="https://img.shields.io/badge/SYSTEM-ASTERION-C9A84C?style=for-the-badge&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/ROLE-ARCHITECT-C9A84C?style=for-the-badge&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/FOCUS-DISCORD_AUTOMATION-C9A84C?style=for-the-badge&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/WORKFLOW-AI_ASSISTED-C9A84C?style=for-the-badge&labelColor=0A0A0A"/>
 
 <br><br>
 
@@ -21,13 +21,14 @@
 
 ---
 
-# ▣ SYSTEM OVERVIEW
+# ▣ ABOUT ME & ASTERION
 
-> ASTERION is a modular discord automation framework focused on **economy**, **dynamic events**, **partner access**, and **activity monitoring**.
+> Hey! 👋 I'm a developer focused on designing complex, sustainable architectures. 
+> Originally built to manage my own clan, **ASTERION** has grown into a comprehensive, modular Discord automation framework. I don't just write bots — I engineer community experiences focusing on **economy**, **dynamic events**, and **strict access control**.
 
 ---
 
-# ▣ SYSTEM STACK
+# ▣ MY TECH STACK
 
 <div align="center">
 
@@ -37,12 +38,12 @@
 
 ---
 
-# ▣ ASTERION ARCHITECTURE
+# ▣ HOW I BUILT ASTERION
 
 <div align="center">
 <pre>
 ┌───────────────────────────────────────────────┐
-│                 ASTERION CORE                 │
+│              ECOSYSTEM ARCHITECTURE           │
 ├───────────────────────────────────────────────┤
 │ Economy System   │ Currency · Loot · Trading  │
 │ Event Engine     │ Dynamic server events      │
@@ -63,18 +64,18 @@
 
 <div align="center">
 
-| MODULE | FUNCTION | STATUS |
+| MODULE | WHAT IT DOES | STATUS |
 |------|------|------|
-| **AsterionEconomy** | Currency · Loot · Trading | 🟢 ONLINE |
-| **AsterionEvents** | Dynamic server events | 🟢 ONLINE |
-| **AsterionPartners** | Partnership access control | 🟢 ONLINE |
-| **AsterionMonitor** | Logs · Activity tracking | 🟢 ONLINE |
+| **AsterionEconomy** | Drives the financial system, PTS, and trading mechanics | 🟢 ONLINE |
+| **AsterionEvents** | Automates multi-day cycles (like Valentine's) and claims | 🟢 ONLINE |
+| **AsterionPartners** | Manages strict role-based access for clan alliances | 🟢 ONLINE |
+| **AsterionMonitor** | Keeps an eye on server health and user activity | 🟢 ONLINE |
 
 </div>
 
 ---
 
-# ▣ SYSTEM TELEMETRY
+# ▣ MY GITHUB ACTIVITY
 
 <div align="center">
 
@@ -86,7 +87,7 @@
 
 ---
 
-# ▣ NETWORK ACCESS
+# ▣ LET'S CONNECT
 
 <div align="center">
 
@@ -95,7 +96,7 @@
 </a>
 
 <a href="https://asteriondoc.netlify.app/">
-<img src="https://img.shields.io/badge/Docs-Asterion-C9A84C?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0A0A0A"/>
+<img src="https://img.shields.io/badge/Asterion_Docs-Read_More-C9A84C?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0A0A0A"/>
 </a>
 
 </div>
@@ -105,10 +106,8 @@
 <div align="center">
 
 
-ASTERION SYSTEM
-discord automation framework
-
-system ready
+> end of transmission.
+> have a great day.
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=110&section=footer"/>
