@@ -80,8 +80,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raidshadowmc-sudo&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=C9A84C&text_color=AAAAAA&icon_color=C9A84C&theme=dark" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raidshadowmc-sudo&hide_border=true&background=0A0A0A&fire=C9A84C&ring=C9A84C&currStreakLabel=C9A84C&sideLabels=AAAAAA&dates=555555&sideNums=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raidshadowmc-sudo&hide_border=true&background=0A0A0A&fire=C9A84C&ring=C9A84C&currStreakLabel=C9A84C&sideLabels=AAAAAA&dates=555555&sideNums=FFFFFF" width="60%" />
 
 </div>
 
@@ -104,8 +103,6 @@
 ---
 
 <div align="center">
-
-> end of transmission.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=110&section=footer"/>
 
