@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=110&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=2000&color=C9A84C&center=true&vCenter=true&width=680&lines=%3E+initializing+asterion+core...;%3E+loading+economy+and+event+modules...;%3E+monitoring+status%3A+nominal+%E2%9C%93" />
 
 # LISONLY.DIA.
 ### software architect & discord ecosystem dev
