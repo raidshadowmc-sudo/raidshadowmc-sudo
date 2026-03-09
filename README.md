@@ -1,56 +1,88 @@
-<br><br>
-
-<div align="center">
-
-<img src="https://images.unsplash.com/photo-1557683316-973673baf926?auto=format&fit=crop&q=80&w=2000" width="100%" style="border-radius:24px; filter:brightness(0.7) contrast(1.15); box-shadow:0 0 80px rgba(147,51,234,0.4);">
-
-<br><br>
-
-<h1 style="font-family: system-ui; font-size:4.2rem; font-weight:900; margin:0; letter-spacing:-2px; background: linear-gradient(90deg, #a78bfa, #f472b6, #60a5fa); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">
-lisonly.dia.
+<h1 align="center">
+  <img src="ССЫЛКА_НА_ВАШ_НЕОНОВЫЙ_БАННЕР.gif" alt="LISONLY.DIA. SOFTWARE ARCHITECT" width="100%">
 </h1>
 
-<p style="font-size:1.4rem; color:#a1a1aa; margin:12px 0 32px; max-width:720px; line-height:1.5;">
-building economic worlds inside discord<br>
-glassmorphism profiles • dual currency • risk & reward • partner progression
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2FD8EB&center=true&vCenter=true&width=600&height=50&lines=>> SOFTWARE ARCHITECT;>> DISCORD ECOSYSTEM DEV;>> UI/UX ENTHUSIAST;>> CROSS-MODEL VERIFICATION" alt="Typing SVG" />
 </p>
 
-<!-- glowing pills -->
-<div style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap; margin:32px 0;">
-  <span style="background:rgba(147,51,234,0.12); backdrop-filter:blur(12px); border:1px solid rgba(147,51,234,0.3); border-radius:999px; padding:8px 20px; font-size:0.95rem; color:#c4b5fd; box-shadow:0 4px 30px rgba(147,51,234,0.15);">FuRY</span>
-  <span style="background:rgba(236,72,153,0.12); backdrop-filter:blur(12px); border:1px solid rgba(236,72,153,0.3); border-radius:999px; padding:8px 20px; font-size:0.95rem; color:#f9a8d4; box-shadow:0 4px 30px rgba(236,72,153,0.15);">BMC</span>
-  <span style="background:rgba(59,130,246,0.12); backdrop-filter:blur(12px); border:1px solid rgba(59,130,246,0.3); border-radius:999px; padding:8px 20px; font-size:0.95rem; color:#93c5fd; box-shadow:0 4px 30px rgba(59,130,246,0.15);">Asterion</span>
-</div>
+<h2 align="center">About Me</h2>
 
-<br>
-
-<!-- profile cards showcase -->
-<div style="display:flex; gap:24px; justify-content:center; flex-wrap:wrap; margin:48px 0;">
-  <img src="https://i.imgur.com/ВАШ_SKРИНШОТ_1.png" width="380" style="border-radius:20px; box-shadow:0 20px 60px rgba(0,0,0,0.6), inset 0 0 0 1px rgba(255,255,255,0.08); backdrop-filter:blur(2px);">
-  <img src="https://i.imgur.com/ВАШ_SKРИНШОТ_2.png" width="380" style="border-radius:20px; box-shadow:0 20px 60px rgba(0,0,0,0.6), inset 0 0 0 1px rgba(255,255,255,0.08); backdrop-filter:blur(2px);">
-</div>
-
-<br><br>
-
-<!-- tech pills row -->
-<div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin:40px 0;">
-  <img src="https://img.shields.io/badge/Python-3.11+-3775A8?style=flat-square&logo=python&logoColor=white&colorA=0f0f1a&colorB=3775A8" height="28">
-  <img src="https://img.shields.io/badge/disnake-2.9+-5865F2?style=flat-square&logo=discord&logoColor=white&colorA=0f0f1a&colorB=5865F2" height="28">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&colorA=0f0f1a&colorB=4169E1" height="28">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&colorA=0f0f1a&colorB=DC382D" height="28">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&colorA=0f0f1a&colorB=2496ED" height="28">
-</div>
-
-<br>
-
-<p style="font-size:1.1rem; color:#71717a; margin:64px 0 24px;">
-currently refactoring economy ledger • turning BMC into endgame prestige currency • planning web dashboard
+<p align="center">
+  Я проектирую устойчивую архитектуру для сложных сообществ. Мой код — это надежный инструмент, а не просто строки.
 </p>
+<br>
 
-<div style="font-size:0.95rem; color:#52525b; letter-spacing:0.5px;">
-lisonly.dia. • 2026
+<div align="center">
+  <img src="ССЫЛКА_НА_ИКОНКУ_DESIGN.png" width="80" alt="Design Solutions">
+  <img src="ССЫЛКА_НА_ИКОНКУ_SECURITY.png" width="80" alt="Protect Solutions">
+  <img src="ССЫЛКА_НА_ИКОНКУ_DECOR.png" width="80" alt="Decorated Solutions">
 </div>
 
+---
+
+<h2 align="center">My AI-Workflow</h2>
+
+<p align="center">
+  Мой уникальный процесс проектирования: <b>Cross-Model Verification</b> (Архитектор → Исполнитель → Технадзор).<br>
+  Это позволяет минимизировать галлюцинации и гарантировать Enterprise-качество кода.
+</p>
+<br>
+
+<div align="center">
+  <img src="ССЫЛКА_НА_КАРТИНКУ_FLOW_DIAGRAM.png" alt="Sonnet + Codex AI Forge Pipeline" width="800">
 </div>
 
-<br><br><br>
+---
+
+<h2 align="center">Asterion Ecosystem</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://asteriondoc.netlify.app/">
+          <img src="ССЫЛКА_НА_ИКОНКУ_EVENT.png" width="150" alt="Eventologist">
+          <h3>Eventologist</h3>
+          <p>Управление уникальными игровыми событиями</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://asteriondoc.netlify.app/">
+          <img src="ССЫЛКА_НА_ИКОНКУ_PARTNER.png" width="150" alt="PartnerBot">
+          <h3>PartnerBot</h3>
+          <p>Глубокая разметка прав доступа</p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://asteriondoc.netlify.app/">
+          <img src="ССЫЛКА_НА_ИКОНКУ_DOCS.png" width="150" alt="Docs">
+          <h3>Documentation Portal</h3>
+          <p>Техническая документация</p>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">GitHub Stats & Tools</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lisonly.dia&show_icons=true&theme=radical&bg_color=1F1F1F&title_color=2FD8EB&text_color=FFFFFF&icon_color=2FD8EB&border_color=2FD8EB" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lisonly.dia&theme=radical&bg_color=1F1F1F&fire=2FD8EB&ring=2FD8EB&currStreakLabel=2FD8EB" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisonly.dia&layout=compact&theme=radical&bg_color=1F1F1F&title_color=2FD8EB&text_color=FFFFFF&icon_color=2FD8EB&border_color=2FD8EB" alt="Top Languages">
+</div>
+
+---
+
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://discord.com/users/lisonly.dia.">
+    <img src="https://img.shields.io/badge/Discord-lisonly.dia.-2FD8EB?style=for-the-badge&logo=discord&logoColor=white&labelColor=1F1F1F" alt="Discord">
+  </a>
+</p>
