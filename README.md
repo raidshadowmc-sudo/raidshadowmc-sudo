@@ -1,4 +1,3 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
 diff --git a/README.md b/README.md
 index e61f108f1441879f13d8dd27aea35101fb7ca498..40e9d8bdf4df8cc7f6a71a2fd671f27dd41d2b3a 100644
 --- a/README.md
@@ -170,6 +169,3 @@ index e61f108f1441879f13d8dd27aea35101fb7ca498..40e9d8bdf4df8cc7f6a71a2fd671f27d
 +<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=120&section=footer" />
  
  </div>
- 
-EOF
-)
