@@ -43,16 +43,16 @@
 
 <div align="center">
 <pre>
-┌────────────────────────────────────────────────────────────┐
-│                    ASTERION CORE ENGINE                    │
-├────────────────────────────────────────────────────────────┤
-│ ConCord Partners │ Autonomous Feeds · PTS Multipliers · Sync  │
-│ Asterion Monitor │ Dual-Layer Compositor 2.0 · Voice XP Anti-AFK │
-│ Asterion Economy │ 18-Charge Stamina · Bestiary 2.0 · Baizhi Fish │
-│ Asterion Events  │ 4-Stage Reminders · Happy Hours · Brackets │
-├────────────────────────────────────────────────────────────┤
+┌─────────────────────────────────────────────────────────────────────────┐
+│                            ASTERION CORE ENGINE                         │
+├─────────────────────────────────────────────────────────────────────────┤
+│ ConCord Partners │ Autonomous Feeds · PTS Multipliers · Sync            │
+│ Asterion Monitor │ Dual-Layer Compositor 2.0 · Voice XP Anti-AFK        │
+│ Asterion Economy │ 18-Charge Stamina · Bestiary 2.0 · Baizhi Fish       │
+│ Asterion Events  │ 4-Stage Reminders · Happy Hours · Brackets           │
+├─────────────────────────────────────────────────────────────────────────┤
 │ Runtime: Python 3.11+ · Storage: SQLite WAL · Platform: Discord API v10 │
-└────────────────────────────────────────────────────────────┘
+└─────────────────────────────────────────────────────────────────────────┘
 </pre>
 </div>
 
