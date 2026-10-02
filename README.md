@@ -44,7 +44,7 @@
 <td width="50%" valign="top"><h3>KALEXIDA</h3>Discord community hub with tournaments, events and member tools. React, Express and PostgreSQL.</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><h3>Elite Squad Leaderboard</h3>Flask site for Minecraft player statistics, clans, quests and achievements.</td>
+<td width="50%" valign="top"><h3>Asterion Leaderboard</h3>Flask site for Minecraft player statistics, clans, quests and achievements.</td>
 <td width="50%" valign="top"><h3>RPCHub</h3>Windows C# app for Discord Rich Presence and a searchable game library.</td>
 </tr>
 </table>
