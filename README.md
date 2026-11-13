@@ -4,15 +4,15 @@
 
 # LISONLY.DIA.
 
-**Developer tools · Discord systems · community platforms**
+**Full-Stack Web Platforms · Discord Ecosystems · Systems Tooling**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=3000&color=C9A84C&center=true&vCenter=true&width=680&lines=%3E+status%3A+building+tools+%26+community+software" alt="Status: building tools and community software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=3000&color=C9A84C&center=true&vCenter=true&width=720&lines=%3E+status%3A+architecting+full-stack+apps+%26+discord+systems" alt="Status: architecting full-stack apps and discord systems" />
 
 <br />
 
-<img src="https://img.shields.io/badge/ROLE-DEVELOPER-C9A84C?style=for-the-badge&labelColor=0A0A0A" alt="Role: developer" />
-<img src="https://img.shields.io/badge/FOCUS-COMMUNITY_SOFTWARE-C9A84C?style=for-the-badge&labelColor=0A0A0A" alt="Focus: community software" />
-<img src="https://img.shields.io/badge/STACK-RUST_%7C_PYTHON_%7C_TYPESCRIPT-C9A84C?style=for-the-badge&labelColor=0A0A0A" alt="Stack: Rust, Python, TypeScript" />
+<img src="https://img.shields.io/badge/ROLE-FULL--STACK_%26_BOT_ARCHITECT-C9A84C?style=for-the-badge&labelColor=0A0A0A" alt="Role: Full-Stack and Bot Architect" />
+<img src="https://img.shields.io/badge/FOCUS-WEB_APPS_%26_DISCORD_SYSTEMS-C9A84C?style=for-the-badge&labelColor=0A0A0A" alt="Focus: Web Apps and Discord Systems" />
+<img src="https://img.shields.io/badge/STACK-PYTHON_%7C_TYPESCRIPT_%7C_REACT_%7C_RUST-C9A84C?style=for-the-badge&labelColor=0A0A0A" alt="Stack: Python, TypeScript, React, Rust" />
 
 </div>
 
@@ -20,32 +20,32 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,py,ts,react,postgres,sqlite,discord,linux,docker,git,cs&theme=dark&perline=11" alt="Rust, Python, TypeScript, React, PostgreSQL, SQLite, Discord, Linux, Docker, Git and C sharp" />
+<img src="https://skillicons.dev/icons?i=py,ts,react,nodejs,express,tailwind,postgres,sqlite,discord,rust,linux,docker,git,cs&theme=dark&perline=7" alt="Python, TypeScript, React, Node.js, Express, Tailwind CSS, PostgreSQL, SQLite, Discord, Rust, Linux, Docker, Git and C sharp" />
 
 </div>
 
-## ▣ Open source
+## ▣ Featured platforms & systems
+
+<sub>Selected production work from private repositories</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top"><h3>ASTERION / AscendBots</h3><sub>PYTHON · POSTGRESQL · DISCORD COMPONENTS V2</sub><br /><br />4-service Python Discord cluster on Linux VPS (<code>systemd</code>) with a shared transactional core, native Components v2 UI, and Headless Chromium HTML-to-PNG rendering.<br /><br /><a href="https://asteriondoc.netlify.app/">View system docs ↗</a></td>
+<td width="50%" valign="top"><h3>KALEXIDA</h3><sub>REACT · TYPESCRIPT · EXPRESS · POSTGRESQL</sub><br /><br />Bilingual (EN/RU) multi-server esports hub featuring interactive Canvas/SVG tournament brackets, real-time Pick/Ban veto, and Discord OAuth2.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>ASTERION Docs</h3><sub>FRONTEND · I18N · DOCUMENTATION PORTAL</sub><br /><br />Bilingual (EN/RU) technical documentation portal with instant quick search (<code>⌘K</code>), interactive command references, and structured onboarding guides.<br /><br /><a href="https://asteriondoc.netlify.app/">Open live portal ↗</a></td>
+<td width="50%" valign="top"><h3>RPCHub</h3><sub>C# · WINDOWS DESKTOP · DISCORD SDK</sub><br /><br />Native Windows desktop utility for custom Discord Rich Presence state management and a searchable local game library.</td>
+</tr>
+</table>
+
+## ▣ Open-source tools
 
 <table>
 <tr>
 <td width="33%" valign="top"><h3><a href="https://github.com/raidshadowmc-sudo/binlens">binlens</a></h3><sub>RUST · BINARY INSPECTION</sub><br /><br />PE, ELF and Mach-O analysis: mitigations, entropy, signatures and YARA.</td>
 <td width="33%" valign="top"><h3><a href="https://github.com/raidshadowmc-sudo/binfence">binfence</a></h3><sub>RUST · CI SECURITY</sub><br /><br />Release-binary checks, baseline comparison and SARIF output.</td>
 <td width="33%" valign="top"><h3><a href="https://github.com/raidshadowmc-sudo/msucat">msucat</a></h3><sub>RUST · UPDATE CATALOG</sub><br /><br />Search, inspect and download Microsoft updates with hash verification.</td>
-</tr>
-</table>
-
-## ▣ Community & desktop projects
-
-<sub>Selected work from private repositories</sub>
-
-<table>
-<tr>
-<td width="50%" valign="top"><h3>ASTERION / AscendBots</h3>Python Discord services for moderation, levels, economy, partners, events and anime updates.<br /><br /><a href="https://asteriondoc.netlify.app/">View public docs ↗</a></td>
-<td width="50%" valign="top"><h3>KALEXIDA</h3>Discord community hub with tournaments, events and member tools. React, Express and PostgreSQL.</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h3>Asterion Leaderboard</h3>Flask site for Minecraft player statistics, clans, quests and achievements.</td>
-<td width="50%" valign="top"><h3>RPCHub</h3>Windows C# app for Discord Rich Presence and a searchable game library.</td>
 </tr>
 </table>
 
