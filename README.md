@@ -53,8 +53,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raidshadowmc-sudo&bg_color=0A0A0A&color=AAAAAA&line=C9A84C&point=FFFFFF&area=true&area_color=C9A84C&hide_border=true&custom_title=Contribution%20Graph" width="52%" alt="GitHub contribution graph" />
-<img src="https://streak-stats.demolab.com/?user=raidshadowmc-sudo&hide_border=true&background=0A0A0A&fire=C9A84C&ring=C9A84C&currStreakNum=FFFFFF&currStreakLabel=C9A84C&sideLabels=AAAAAA&dates=555555&sideNums=FFFFFF" width="46%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=raidshadowmc-sudo&hide_border=true&background=0A0A0A&fire=C9A84C&ring=C9A84C&currStreakNum=FFFFFF&currStreakLabel=C9A84C&sideLabels=AAAAAA&dates=555555&sideNums=FFFFFF" width="60%" alt="GitHub contribution streak" />
 
 </div>
 
