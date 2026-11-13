@@ -30,7 +30,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><h3>ASTERION / AscendBots</h3><sub>PYTHON · POSTGRESQL · DISCORD COMPONENTS V2</sub><br /><br />4-service Python Discord cluster on Linux VPS (<code>systemd</code>) with a shared transactional core, native Components v2 UI, and Headless Chromium HTML-to-PNG rendering.<br /><br /><a href="https://asteriondoc.netlify.app/">View system docs ↗</a></td>
+<td width="50%" valign="top"><h3>ASTERION / AscendBots</h3><sub>PYTHON · POSTGRESQL · DISCORD COMPONENTS V2</sub><br /><br />4-service Python Discord cluster on Linux VPS (<code>systemd</code>) with a shared transactional core, native Components v2 UI, and Headless Chromium HTML-to-PNG rendering.</td>
 <td width="50%" valign="top"><h3>KALEXIDA</h3><sub>REACT · TYPESCRIPT · EXPRESS · POSTGRESQL</sub><br /><br />Bilingual (EN/RU) multi-server esports hub featuring interactive Canvas/SVG tournament brackets, real-time Pick/Ban veto, and Discord OAuth2.</td>
 </tr>
 <tr>
